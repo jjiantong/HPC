@@ -1,3 +1,5 @@
 .vagrant
 scripts/HDF5_examples
 images/pgi*
+data/*.cpp
+data/*.out
